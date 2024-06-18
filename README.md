@@ -33,6 +33,5 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
   - [FTP-exploits](https://github.com/tfwcodes/FTP-exploits) FTP-exploits is a tool which is used for Penetration Testing that can run many kinds of exploits on port 21(FTP).
   - [BruteX](https://github.com/1N3/BruteX) Automatically brute force all services running on a target.
 
-- tftp
-  - 
+- tftp pentesting tools
 
