@@ -33,11 +33,11 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
   - [FTP-exploits](https://github.com/tfwcodes/FTP-exploits) FTP-exploits is a tool which is used for Penetration Testing that can run many kinds of exploits on port 21(FTP).
   - [BruteX](https://github.com/1N3/BruteX) Automatically brute force all services running on a target.
 
-- tftp pentesting tools
+- ftp pentesting tools
   - [tftp-fuzz](https://nullsecurity.net/tools/fuzzer.html) Master TFTP fuzzing script as part of the ftools series of fuzzers.
   - [tftptheft](https://github.com/EnableSecurity/tftptheft) TFTP Theft is a tool which allows one to quickly scan/bruteforce a tftp server for files and download them instantly.
 
 - ssh pentesting tools
-  - 
+  - [ssh-audit](https://github.com/jtesta/ssh-audit) SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).
   
 
