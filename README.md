@@ -6,7 +6,6 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
 - **network scanners**
   - [Smap](https://github.com/s0md3v/Smap) A drop-in replacement for Nmap.
   - [sandmap](https://github.com/trimstray/sandmap) Sandmap is a tool supporting network and system reconnaissance using the massive Nmap engine.
-  - 
 
 - **ftp pentesting tools**
   - [ftp-fuzz](https://nullsecurity.net/tools/fuzzer.html) The master of all master fuzzing scripts specifically targeted towards FTP server software.
@@ -58,5 +57,8 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
     tools.
   - [ssh-snake](https://github.com/MegaManSec/SSH-Snake) SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery..
   - [SSHScan](https://github.com/evict/SSHScan) SSHScan is a testing tool that enumerates SSH Ciphers. Using SSHScan, weak ciphers can be easily detected.
-  
+
+
+> [!NOTE]
+> Tools are getting added daily.
 
