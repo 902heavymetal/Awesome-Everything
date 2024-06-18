@@ -1,4 +1,4 @@
-# Awesome Everything 👾👾
+# Awesome Everything [![Static Badge](https://img.shields.io/badge/Version_1.0-8A2BE2?style=plastic&logo=github)](https://github.com/AssaS1n-here/Awesome-Everything)
 The `Awesome Everything` repo for the `Open Source` tools collection for `Linux` and `Windows`
 
 # Pentesting Tools
