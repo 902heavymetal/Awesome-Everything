@@ -1,3 +1,5 @@
 # Awesome Everything 👾👾
-The `Awesome Everything` repo is created to collect all of the open source tools related to Pentesting, Development, and All tools that can be installed on Linux and Windows Operating Systems.
+The `Awesome Everything` repo for the `Open Source` tools collection for `Linux` and `Windows`
 ----
+
+# Pentesting Tools
