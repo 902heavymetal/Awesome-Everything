@@ -3,7 +3,9 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
 
 # Pentesting Tools
 **Network Pentesting Tools**
-- ftp pentesting tools
+- **network scanner**
+   - 
+- **ftp pentesting tools**
   - [ftp-fuzz](https://nullsecurity.net/tools/fuzzer.html) The master of all master fuzzing scripts specifically targeted towards FTP server software.
   - [ftp-spider](https://packetstormsecurity.com/files/35120/ftp-spider.pl.html) FTP investigation tool - Scans ftp server for the following: reveal entire directory tree structures, detect anonymous access, detect directories with 
     write permissions, find user specified data within repository.
@@ -33,11 +35,23 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
   - [FTP-exploits](https://github.com/tfwcodes/FTP-exploits) FTP-exploits is a tool which is used for Penetration Testing that can run many kinds of exploits on port 21(FTP).
   - [BruteX](https://github.com/1N3/BruteX) Automatically brute force all services running on a target.
 
-- ftp pentesting tools
+- **tftp pentesting tools**
   - [tftp-fuzz](https://nullsecurity.net/tools/fuzzer.html) Master TFTP fuzzing script as part of the ftools series of fuzzers.
   - [tftptheft](https://github.com/EnableSecurity/tftptheft) TFTP Theft is a tool which allows one to quickly scan/bruteforce a tftp server for files and download them instantly.
 
-- ssh pentesting tools
+- **ssh pentesting tools**
   - [ssh-audit](https://github.com/jtesta/ssh-audit) SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).
+  - [ssh-audit](https://github.com/arthepsy/ssh-audit/) SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).
+  - [against](https://nullsecurity.net/tools/cracker.html) A very fast ssh attacking script which includes a multithreaded port scanning module (tcp connect) for discovering possible targets and a multithreaded brute-forcing module  
+    which attacks parallel all discovered hosts or given ip addresses from a list.
+  - [beleth](https://github.com/chokepoint/Beleth) Multi-threaded SSH Password Auditor.
+  - [check-weak-dh-ssh](https://packetstormsecurity.com/files/66683/check_weak_dh_ssh.pl.bz2.html) 	Debian OpenSSL weak client Diffie-Hellman Exchange checker.
+  - [Shreder](https://github.com/EntySec/Shreder) Shreder is a powerful multi-threaded SSH protocol password brute-force tool.
+  - [ssh-privkey-crack](https://code.google.com/archive/p/lusas/) A SSH private key cracker.
+  - [sshatter](http://www.nth-dimension.org.uk/downloads.php?id=34) Password bruteforcer for SSH.
+  - [sshfuzz](https://packetstormsecurity.com/fuzzer/sshfuzz.txt) shfuzz is a SSH Fuzzing utility written in Perl that uses Net::SSH2.
+  - [sshscan](https://github.com/phxbandit/scripts-and-tools/blob/master/sshscan.py) 	A horizontal SSH scanner that scans large swaths of IPv4 space for a single SSH user and pass.
+  - [crowbar](https://github.com/galkan/crowbar) Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing 
+    tools.
   
 
