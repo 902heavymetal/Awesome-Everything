@@ -34,4 +34,7 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
   - [BruteX](https://github.com/1N3/BruteX) Automatically brute force all services running on a target.
 
 - tftp pentesting tools
+  - [tftp-fuzz](https://nullsecurity.net/tools/fuzzer.html) Master TFTP fuzzing script as part of the ftools series of fuzzers.
+  - [tftptheft](https://github.com/EnableSecurity/tftptheft) TFTP Theft is a tool which allows one to quickly scan/bruteforce a tftp server for files and download them instantly.
+  
 
