@@ -3,8 +3,11 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
 
 # Pentesting Tools
 **Network Pentesting Tools**
-- **network scanner**
-   - 
+- **network scanners**
+  - [Smap](https://github.com/s0md3v/Smap) A drop-in replacement for Nmap.
+  - [sandmap](https://github.com/trimstray/sandmap) Sandmap is a tool supporting network and system reconnaissance using the massive Nmap engine.
+  - 
+
 - **ftp pentesting tools**
   - [ftp-fuzz](https://nullsecurity.net/tools/fuzzer.html) The master of all master fuzzing scripts specifically targeted towards FTP server software.
   - [ftp-spider](https://packetstormsecurity.com/files/35120/ftp-spider.pl.html) FTP investigation tool - Scans ftp server for the following: reveal entire directory tree structures, detect anonymous access, detect directories with 
@@ -53,5 +56,7 @@ The `Awesome Everything` repo for the `Open Source` tools collection for `Linux`
   - [sshscan](https://github.com/phxbandit/scripts-and-tools/blob/master/sshscan.py) 	A horizontal SSH scanner that scans large swaths of IPv4 space for a single SSH user and pass.
   - [crowbar](https://github.com/galkan/crowbar) Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other popular brute forcing 
     tools.
+  - [ssh-snake](https://github.com/MegaManSec/SSH-Snake) SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery..
+  - [SSHScan](https://github.com/evict/SSHScan) SSHScan is a testing tool that enumerates SSH Ciphers. Using SSHScan, weak ciphers can be easily detected.
   
 
