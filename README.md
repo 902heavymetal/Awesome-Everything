@@ -2,7 +2,7 @@
 The `Awesome Everything` repo for the `Open Source` tools collection for `Linux` and `Windows`
 ------
 # Index
-Pentesting Tools [ [Network Pentesting Tools](https://github.com/AssaS1n-here/Awesome-Everything/edit/main/README.md#network-pentesting-tools) [ [scanners](https://github.com/AssaS1n-here/Awesome-Everything/edit/main/README.md#network--port-scanners) | [FTP](https://github.com/AssaS1n-here/Awesome-Everything/edit/main/README.md#ftp-pentesting-tools) ] ]
+Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools) [ [scanners](https://github.com/AssaS1n-here/Awesome-Everything/edit/main/README.md#network--port-scanners) | [FTP](https://github.com/AssaS1n-here/Awesome-Everything/edit/main/README.md#ftp-pentesting-tools) ] ]
 
 # Pentesting Tools
 ## Network Pentesting Tools
