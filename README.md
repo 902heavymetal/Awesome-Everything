@@ -2,7 +2,7 @@
 The `Awesome Everything` repo for the `Open Source` tools collection for `Linux` and `Windows`
 ------
 # Index
-Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools) [ [scanners](https://github.com/AssaS1n-here/Awesome-Everything/edit/main/README.md#network--port-scanners) | [FTP](https://github.com/AssaS1n-here/Awesome-Everything/edit/main/README.md#ftp-pentesting-tools) ] ]
+Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools) [ [scanners](README.md#network--port-scanners) | [ftp](README.md#ftp-pentesting-tools) ] | [tftp](README.md#tftp-pentesting-tools) | [ssh](README.md#ssh-pentesting-tools) | [smtp](README.md#smtp-pentest-tools) ]
 
 # Pentesting Tools
 ## Network Pentesting Tools
@@ -83,11 +83,11 @@ Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools
   - [FTP-exploits](https://github.com/tfwcodes/FTP-exploits) FTP-exploits is a tool which is used for Penetration Testing that can run many kinds of exploits on port 21(FTP).
   - [BruteX](https://github.com/1N3/BruteX) Automatically brute force all services running on a target.
 
-- **tftp pentesting tools**
+- #### **tftp pentesting tools**
   - [tftp-fuzz](https://nullsecurity.net/tools/fuzzer.html) Master TFTP fuzzing script as part of the ftools series of fuzzers.
   - [tftptheft](https://github.com/EnableSecurity/tftptheft) TFTP Theft is a tool which allows one to quickly scan/bruteforce a tftp server for files and download them instantly.
 
-- **ssh pentesting tools**
+- #### **ssh pentesting tools**
   - [ssh-audit](https://github.com/jtesta/ssh-audit) SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).
   - [ssh-audit](https://github.com/arthepsy/ssh-audit/) SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc).
   - [against](https://nullsecurity.net/tools/cracker.html) A very fast ssh attacking script which includes a multithreaded port scanning module (tcp connect) for discovering possible targets and a multithreaded brute- 
@@ -103,20 +103,20 @@ Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools
   - [crowbar](https://github.com/galkan/crowbar) Crowbar is brute forcing tool that can be used during penetration tests. It is developed to support protocols that are not currently supported by thc-hydra and other 
     popular brute forcing 
     tools.
-  - [ssh-snake](https://github.com/MegaManSec/SSH-Snake) SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery..
+  - [ssh-snake](https://github.com/MegaManSec/SSH-Snake) SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
   - [SSHScan](https://github.com/evict/SSHScan) SSHScan is a testing tool that enumerates SSH Ciphers. Using SSHScan, weak ciphers can be easily detected.
  
-- **smtp pentest tools**
- - [smtp-test](https://github.com/isaudits/smtp-test) Automated testing of SMTP servers for penetration testing.
- - [MailRipV2](https://github.com/DrPython3/MailRipV2) Improved SMTP Checker / SMTP Cracker with proxy-support, inbox test and many more features.
- - [Smtp-Craker](https://github.com/Aron-Tn/Smtp-cracker) Simple Mail Transfer Protocol (SMTP) CHECKER - CRACKER Tool V2.
- - [mailtools](https://github.com/aels/mailtools) Perfect scripts for all the hustle we have with mailing.
- - [Mass-Mailer-toolkit](https://github.com/alianse777/Mass-Mailer-toolkit) All-in-one mailing tool.
- - [Mess-SMTP-Checker](https://github.com/Tux-MacG1v/Mess-SMTP-Checker) MASS SMTP VALID INVALID CHECKER.
- - [SMTP-CHECKER](https://github.com/esfelurm/SMTP-CHECKER) A tool to check the correctness of email and password.
- - [BrokenSMTP](https://github.com/mrlew1s/BrokenSMTP) Small python script to look for common vulnerabilities on SMTP server.
- - [swaks](https://github.com/blackhatethicalhacking/swaks) Swaks - Swiss Army Knife for SMTP.
- - 
+- #### **smtp pentest tools**
+  - [smtp-test](https://github.com/isaudits/smtp-test) Automated testing of SMTP servers for penetration testing.
+  - [MailRipV2](https://github.com/DrPython3/MailRipV2) Improved SMTP Checker / SMTP Cracker with proxy-support, inbox test and many more features.
+  - [Smtp-Craker](https://github.com/Aron-Tn/Smtp-cracker) Simple Mail Transfer Protocol (SMTP) CHECKER - CRACKER Tool V2.
+  - [mailtools](https://github.com/aels/mailtools) Perfect scripts for all the hustle we have with mailing.
+  - [Mass-Mailer-toolkit](https://github.com/alianse777/Mass-Mailer-toolkit) All-in-one mailing tool.
+  - [Mess-SMTP-Checker](https://github.com/Tux-MacG1v/Mess-SMTP-Checker) MASS SMTP VALID INVALID CHECKER.
+  - [SMTP-CHECKER](https://github.com/esfelurm/SMTP-CHECKER) A tool to check the correctness of email and password.
+  - [BrokenSMTP](https://github.com/mrlew1s/BrokenSMTP) Small python script to look for common vulnerabilities on SMTP server.
+  - [swaks](https://github.com/blackhatethicalhacking/swaks) Swaks - Swiss Army Knife for SMTP.
+
 
 
 > [!NOTE]
