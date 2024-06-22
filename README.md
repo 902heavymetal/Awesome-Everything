@@ -2,7 +2,7 @@
 The `Awesome Everything` repo for the `Open Source` tools collection for `Linux` and `Windows`
 ------
 # Index
-Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools) [ [scanners](README.md#network--port-scanners) | [ftp](README.md#ftp-pentesting-tools) ] | [tftp](README.md#tftp-pentesting-tools) | [ssh](README.md#ssh-pentesting-tools) | [smtp](README.md#smtp-pentest-tools) ]
+Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools) [ [scanners](README.md#network--port-scanners) | [ftp](README.md#ftp-pentesting-tools) ] | [tftp](README.md#tftp-pentesting-tools) | [ssh](README.md#ssh-pentesting-tools) | [smtp](README.md#smtp-pentest-tools) | [TACACS+](README.md#tacacs-pentest-tools) ] ]
 
 # Pentesting Tools
 ## Network Pentesting Tools
@@ -117,6 +117,14 @@ Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools
   - [BrokenSMTP](https://github.com/mrlew1s/BrokenSMTP) Small python script to look for common vulnerabilities on SMTP server.
   - [swaks](https://github.com/blackhatethicalhacking/swaks) Swaks - Swiss Army Knife for SMTP.
 
+- #### **TACACS+ pentest tools**
+   - [Loki](https://c0decafe.de/svn/codename_loki/trunk/) This is a special tool designed to analyze the security of L2/L3 protocols.
+
+- #### **dns pentest tools**
+  - [DNSrecon-gui](https://github.com/micro-joan/DNSrecon-gui) DNSrecon tool with GUI for Kali Linux.
+  - [dnsx](https://github.com/projectdiscovery/dnsx) dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
+  - [massdns](https://github.com/blechschmidt/massdns) A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration).
+  - [dnscan](https://github.com/rbsec/dnscan) dnscan is a python wordlist-based DNS subdomain scanner.
 
 
 > [!NOTE]
