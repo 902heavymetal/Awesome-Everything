@@ -2,7 +2,7 @@
 The `Awesome Everything` repo for the `Open Source` tools collection for `Linux` and `Windows`
 ------
 # Index
-Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools) [ [scanners](README.md#network--port-scanners) | [ftp](README.md#ftp-pentesting-tools) ] | [tftp](README.md#tftp-pentesting-tools) | [ssh](README.md#ssh-pentesting-tools) | [smtp](README.md#smtp-pentest-tools) | [TACACS+](README.md#tacacs-pentest-tools) ] ]
+Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools) [ [scanners](README.md#network--port-scanners) | [ftp](README.md#ftp-pentesting-tools) ] | [tftp](README.md#tftp-pentesting-tools) | [ssh](README.md#ssh-pentesting-tools) | [smtp](README.md#smtp-pentest-tools) | [TACACS+](README.md#tacacs-pentest-tools) | [DNS](README.md#dns-pentest-tools) ] ]
 
 # Pentesting Tools
 ## Network Pentesting Tools
@@ -120,11 +120,23 @@ Pentesting Tools [ [Network Pentesting Tools](README.md#network-pentesting-tools
 - #### **TACACS+ pentest tools**
    - [Loki](https://c0decafe.de/svn/codename_loki/trunk/) This is a special tool designed to analyze the security of L2/L3 protocols.
 
-- #### **dns pentest tools**
+- #### **DNS pentest tools**
   - [DNSrecon-gui](https://github.com/micro-joan/DNSrecon-gui) DNSrecon tool with GUI for Kali Linux.
   - [dnsx](https://github.com/projectdiscovery/dnsx) dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
   - [massdns](https://github.com/blechschmidt/massdns) A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration).
   - [dnscan](https://github.com/rbsec/dnscan) dnscan is a python wordlist-based DNS subdomain scanner.
+  - [dig](https://packages.debian.org/buster/dnsutils) query the DNS in various ways.
+  - [dnsenum](https://www.kali.org/tools/dnsenum) Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks.
+  - [dnsrecon](https://github.com/darkoperator/dnsrecon) handy python script to perform DNS reconnaissance over remote hosts.
+  - [fierce](https://github.com/mschwager/fierce) Fierce is a DNS reconnaissance tool for locating non-contiguous IP space.
+  - [dnsrevenum6](https://github.com/vanhauser-thc/thc-ipv6/blob/master/dnsrevenum6.c) Simple and fast Reverse DNS Enumerator for IPv6.
+  - [dnsscope](https://github.com/WhiteOakSecurity/dnsscope) Takes a list of IPs and TLDs in scope and automates DNS enumeration.
+  - [dnsdumpster](https://github.com/nmmapper/dnsdumpster) A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection 
+    and more fingerprinting and lookups.
+  - [dnsdumpster.com](https://dnsdumpster.com/) dns recon & research, find & lookup dns records.
+
+- #### **DNS pentest tools**
+  
 
 
 > [!NOTE]
