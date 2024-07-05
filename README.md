@@ -2,7 +2,7 @@
 The `Awesome Everything` repo for the `Open Source` tools collection for `Linux` and `Windows`
 ------
 # Index
-Pentesting Tools [ [Network Pentesting Tools](#network-pentesting-tools) [ [scanners](#network--port-scanners) | [ftp](#ftp-pentesting-tools) ] | [tftp](#tftp-pentesting-tools) | [ssh](#ssh-pentesting-tools) | [smtp](#smtp-pentest-tools) | [TACACS+](#tacacs-pentest-tools) | [DNS](#dns-pentest-tools) ] ]
+Pentesting Tools [ [Network Pentesting Tools](#network-pentesting-tools) [ [scanners](#network--port-scanners) | [ftp](#ftp-pentesting-tools) | [tftp](#tftp-pentesting-tools) | [ssh](#ssh-pentesting-tools) | [smtp](#smtp-pentest-tools) | [TACACS+](#tacacs-pentest-tools) | [dns](#dns-pentest-tools) | [finger](#finger-pentest-tools) | [kerberos](#kerberos-pentest-tools) | [ident](#ident-pentest-tools) | [ntp](#ntp-pentest-tools)[msrpc](#msrpc-pentest-tools) | [netbios](#netbios-pentest-tools) | [smb](#smb-pentest-tools) ] ]
 
 # Pentesting Tools
 ## Network Pentesting Tools
@@ -120,7 +120,7 @@ Pentesting Tools [ [Network Pentesting Tools](#network-pentesting-tools) [ [scan
 - #### **TACACS+ pentest tools**
    - [Loki](https://c0decafe.de/svn/codename_loki/trunk/) This is a special tool designed to analyze the security of L2/L3 protocols.
 
-- #### **DNS pentest tools**
+- #### **dns pentest tools**
   - [DNSrecon-gui](https://github.com/micro-joan/DNSrecon-gui) DNSrecon tool with GUI for Kali Linux.
   - [dnsx](https://github.com/projectdiscovery/dnsx) dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
   - [massdns](https://github.com/blechschmidt/massdns) A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration).
@@ -135,9 +135,41 @@ Pentesting Tools [ [Network Pentesting Tools](#network-pentesting-tools) [ [scan
     and more fingerprinting and lookups.
   - [dnsdumpster.com](https://dnsdumpster.com/) dns recon & research, find & lookup dns records.
 
-- #### **DNS pentest tools**
-  
+- #### **finger pentest tools**
+  - [finger-user-enum](https://pentestmonkey.net/tools/user-enumeration/finger-user-enum) Username guessing tool primarily for use against the default Solaris finger service.
 
+- #### **kerberos pentest tools**
+    - [rubeus](https://github.com/GhostPack/Rubeus) Rubeus is a C# toolset for raw Kerberos interaction and abuses.
+    - [kerbrute](https://github.com/ropnop/kerbrute) A tool to quickly bruteforce and enumerate valid Active Directory accounts through Kerberos Pre-Authentication.
+    - [PowershellKerberos](https://github.com/MzHmO/PowershellKerberos) Some scripts to abuse kerberos using Powershell.
+    - [Ticket Injector](https://github.com/MzHmO/articles/tree/main/Ticket%20Injector) Manual tickets injection tool.
+    - [Cerbere](https://github.com/OtterHacker/Cerbere) A project to play a little bit with Kerberos on Windows.
+
+- #### **ident pentest tools**
+  - [ident-user-enum](https://github.com/pentestmonkey/ident-user-enum) ident-user-enum is a simple PERL script to query the ident service (113/TCP) in order to determine the owner of the process listening on each TCP 
+    port of a target system.
+
+- #### **ntp pentest tools**
+  - [ntp-dos-script](https://github.com/codeshold/ddos-dos-tools/blob/master/ntp-dos.py) ntp dos script in python.
+ 
+- #### **msrpc pentest tools**
+  - [rpctools](https://resources.oreilly.com/examples/9780596510305/tree/master/tools/rpctools) They are demostration programs for the Null Session and MSRPC concepts discussed at BlackHat Windows 2000.
+
+- #### **netbios pentest tools**
+  - [nbtscan](https://github.com/lifenjoiner/nbtscan) The NBTscan mod for Windows without dependency of cygwin.
+  - [inbtscan](https://github.com/iiilin/inbtscan) Python nbtstat + smb_version without third party packages.
+
+- #### **smb pentest tools**
+  - [enum4linux](https://github.com/CiscoCXSecurity/enum4linux) enum4Linux is a Linux alternative to enum.exe for enumerating data from Windows and Samba hosts
+  - [smbmap](https://github.com/ShawnDEvans/smbmap) SMBMap is a handy SMB enumeration tool.
+  - [Nim-SMBExec](https://github.com/elddy/Nim-SMBExec) SMBExec implementation in Nim - SMBv2 using NTLM Authentication with Pass-The-Hash technique.
+  - [SMBetray](https://github.com/quickbreach/SMBetray) SMB MiTM tool with a focus on attacking clients through file content swapping, lnk swapping, as well as compromising any data passed over the wire in cleartext.
+  - [nullinux](https://github.com/m8sec/nullinux) Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.
+  - [SharpSMBSpray](https://github.com/rvrsh3ll/SharpSMBSpray) Spray a hash via smb to check for local administrator access.
+  - [NetExec](https://github.com/Pennyw0rth/NetExec) The Network Execution Tool.
+  - [MANSPIDER](https://github.com/blacklanternsecurity/MANSPIDER) Spider entire networks for juicy files sitting on SMB shares. Search filenames or file content - regex supported.
+  - [enum4linux-ng](https://github.com/cddmp/enum4linux-ng) A next generation version of enum4linux (a Windows/Samba enumeration tool) with additional features like JSON/YAML export. Aimed for security professionals and 
+    CTF players.
 
 > [!NOTE]
 > Tools are getting added daily.
